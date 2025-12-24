@@ -7,6 +7,12 @@
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,clojure,docker,java,js,ts,md,mysql,nextjs,postman,py,react,vite,tailwind,latex,octave,materialui)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JeremDePass&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
