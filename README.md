@@ -12,6 +12,11 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,c,clojure,docker,java,js,ts,md,mysql,nextjs,postman,py,react,vite,tailwind,latex,octave,materialui" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,tailwind,latex,octave,materialui" />
+  </a>
+</p>
 
 
 # 📊 GitHub Stats:
