@@ -9,7 +9,7 @@
 [![My Skills]()](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,clojure,docker,java,js,ts,md,mysql,nextjs,postman,py,react,vite,tailwind,latex,octave,materialui" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,clojure,docker,java,js,ts,md,mysql,nextjs,postman,py,react" />
   </a>
 </p>
 <p align="center">
