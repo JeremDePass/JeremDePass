@@ -6,7 +6,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:depassorio.jeremy@gmail.com) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,clojure,docker, figma, java, js, kali, md, mysql, nextjs, postman, py, react, vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,clojure)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
