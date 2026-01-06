@@ -1,4 +1,5 @@
 <h1 align="center" >Hi There!👋</h1>
+
 # 💫 About Me:
 🎓 SOEN student @ Concordia<br>🧑‍💻 I love doing hackathons<br>💡 I'm passionate about entrepreneurship<br>🧠 I enjoy learning and solving problems <br>🌱 Currently diving deeper into ML and AI integrations<br>⚡ I'm happy to be a part of this generation where chatGPT exists<br>💬 Ask me about anything!
 
