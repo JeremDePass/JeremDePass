@@ -1,3 +1,4 @@
+<h1 align="center" Hi There!👋>
 # 💫 About Me:
 🎓 SOEN student @ Concordia<br>🧑‍💻 I love doing hackathons<br>💡 I'm passionate about entrepreneurship<br>🧠 I enjoy learning and solving problems <br>🌱 Currently diving deeper into ML and AI integrations<br>⚡ I'm happy to be a part of this generation where chatGPT exists<br>💬 Ask me about anything!
 
@@ -18,11 +19,6 @@
   </a>
 </p>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JeremDePass&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JeremDePass&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremDePass&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JeremDePass&icon=0&color=0)](https://visitcount.itsvg.in)
