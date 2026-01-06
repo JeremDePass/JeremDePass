@@ -1,13 +1,10 @@
-<h1 align="center" Hi There!👋>
+<h1 align="center" >Hi There!👋</h1>
 # 💫 About Me:
 🎓 SOEN student @ Concordia<br>🧑‍💻 I love doing hackathons<br>💡 I'm passionate about entrepreneurship<br>🧠 I enjoy learning and solving problems <br>🌱 Currently diving deeper into ML and AI integrations<br>⚡ I'm happy to be a part of this generation where chatGPT exists<br>💬 Ask me about anything!
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:depassorio.jeremy@gmail.com) 
 
 # 💻 Tech Stack:
-[![My Skills]()](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,c,clojure,docker,java,js,ts,md,mysql,nextjs,postman,py,react" />
